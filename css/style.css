@@ -1,0 +1,41 @@
+.movie_info {
+    color: white;
+    padding: 16px;
+}
+.img_content {
+    padding: 10px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    width: 40vh;
+}
+
+.home__title {
+    padding-bottom: 30px;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: white; 
+    color: black; 
+    width: 36vh;
+    border-radius: 30px;
+    border: 2px solid #4CAF50;
+  }
+  
+  .button1:hover {
+    background-color: #353bf6;
+    color: white;
+  }
+
